@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Unreal101.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal Projects\GDHQ Lessons\Unreal 101\Unreal101_Begin\Unreal101 5.5\Intermediate\Build\Win64\x64\Unreal101Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\Unreal Projects\GDHQ Lessons\Unreal 101\Unreal101_Begin\Unreal101 5.5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Unreal101\Unreal101.cpp.obj"
+"C:\Unreal Projects\GDHQ Lessons\Unreal 101\Unreal101_Begin\Unreal101 5.5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Unreal101\PerModuleInline.gen.cpp.obj"
+"C:\Unreal Projects\GDHQ Lessons\Unreal 101\Unreal101_Begin\Unreal101 5.5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Unreal101\Default.rc2.res"
+/OUT:"C:\Unreal Projects\GDHQ Lessons\Unreal 101\Unreal101_Begin\Unreal101 5.5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Unreal101\UnrealEditor-Unreal101.lib"

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal Projects\\GDHQ Lessons\\Unreal 101\\Unreal101_Begin\\Unreal101 5.5\\Source\\Unreal101\\Unreal101.Build.cs",
+		"C:\\Unreal Projects\\GDHQ Lessons\\Unreal 101\\Unreal101_Begin\\Unreal101 5.5\\Source\\Unreal101.Target.cs",
+		"C:\\Unreal Projects\\GDHQ Lessons\\Unreal 101\\Unreal101_Begin\\Unreal101 5.5\\Source\\Unreal101Editor.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}

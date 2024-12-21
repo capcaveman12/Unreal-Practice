@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal projects\\gdhq lessons\\unreal 101\\unreal101_begin\\unreal101 5.5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unreal101\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal projects\\gdhq lessons\\unreal 101\\unreal101_begin\\unreal101 5.5\\intermediate\\build\\win64\\x64\\unreal101editor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\unreal projects\\gdhq lessons\\unreal 101\\unreal101_begin\\unreal101 5.5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unreal101\\definitions.unreal101.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
